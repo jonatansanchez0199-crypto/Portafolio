@@ -170,13 +170,22 @@ section {
 
     nav {
         flex-direction: column;
+        align-items: center;
+        text-align: center;
         gap: 15px;
     }
 
     nav ul {
+        display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        gap: 15px;
+        padding-top: 10px;
     }
+
+    nav h1 {
+    font-size: 2rem;
+}
 
     .hero {
         height: auto;
