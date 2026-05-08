@@ -152,3 +152,16 @@ section {
     border-radius: 6px;
     margin-bottom: 10px;
 }
+
+.tech {
+    margin-top: 10px;
+    color: #8b5cf6;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.project-links {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
